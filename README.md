@@ -32,7 +32,3 @@ See the [deployment](https://facebook.github.io/create-react-app/docs/deployment
 ## Deployment
 
 This project is deployed on [Vercel](https://react-chat-app-theta-eosin.vercel.app/).
-
----
-
-### Additional Resources
