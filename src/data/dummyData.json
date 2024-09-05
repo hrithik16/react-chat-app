@@ -1,0 +1,31 @@
+{
+    "conversations": [
+      {
+        "id": 1,
+        "contactName": "Alice",
+        "messages": [
+          { "text": "Hello", "sender": "Alice" },
+          { "text": "How are you?", "sender": "Alice" },
+          { "text": "I am good, thanks!", "sender": "me" }
+        ],
+        "lastMessage": "I am good, thanks!"
+      },
+      {
+        "id": 2,
+        "contactName": "Bob",
+        "messages": [
+          { "text": "Hey!", "sender": "Bob" },
+          { "text": "Let's meet up.", "sender": "Bob" },
+          { "text": "Sure, sounds good!", "sender": "me" }
+        ],
+        "lastMessage": "Sure, sounds good!"
+      }
+    ],
+    "contacts": [
+      { "id": 1, "name": "Alice" },
+      { "id": 2, "name": "Bob" },
+      { "id": 3, "name": "Charlie" },
+      { "id": 4, "name": "David" }
+    ]
+  }
+  
